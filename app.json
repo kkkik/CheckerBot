@@ -1,0 +1,1 @@
+{"name":"Checker Nu","keywords":["python","chatbot","telegrambot"],"website":"https://t.me/apthon","env":{"tok":{"description":"Token Bot:","value":"","required":true},"id":{"description":"YOUR ID","value":"","required":true}}}
