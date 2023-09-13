@@ -5,11 +5,7 @@
 # Powered by USU with love <img src="https://i.pinimg.com/originals/d8/5d/f0/d85df08df1212c0f8b219e779c5ebc46.gif" align="right" width="120" />
 
 ## Welcome To ChekerBot Telegram هلولو بوت تثبيت تلي
-## ! راسلني اذا عندك افكار عالانستا الازرار جوة
-<a href="https://www.instagram.com/us.u_">
-  <img align="left" alt="انستا" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-</a>
+## ! راسلني اذا عندك افكار عالتليكرام 
 <a href="https://github.com/kkkik">
   <img align="left" alt=" كيتهوبي" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
