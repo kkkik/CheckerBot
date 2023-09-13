@@ -13,4 +13,7 @@
 <a href="https://github.com/kkkik">
   <img align="left" alt=" كيتهوبي" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://t.me/x_UsU">
+  <img align="left" alt=" تلكرامي" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 `Iloveyou`
